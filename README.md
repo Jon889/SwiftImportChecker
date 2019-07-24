@@ -24,4 +24,5 @@ This shows that you need to add `MyFramework1` to Linked Frameworks and Librarie
 
 ## To Do
 
+* Check for targets that link to frameworks but don't import them in any source files
 * Automatically add the missing linked frameworks. Seems to be tricky across projects in a workspace.
